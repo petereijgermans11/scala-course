@@ -1,0 +1,22 @@
+https://sites.google.com/a/stonybrook.edu/functional-programming-scala/home
+http://docs.scala-lang.org/cheatsheets/
+
+-------
+
+Solutions:
+
+https://github.com/sharfah/scala-coursera
+http://vasnake.blogspot.nl/2016/03/fpp-in-scala-assignments.html
+https://github.com/sharfah/scala-coursera/blob/master/forcomp/src/main/scala/forcomp/Anagrams.scala --> Week 6
+
+------------
+
+PDF Odesky
+
+http://www.scala-lang.org/docu/files/ScalaByExample.pdf
+
+----
+
+CheatSheet.md
+
+https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md

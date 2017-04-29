@@ -1,0 +1,14 @@
+MyType = Int => Boolean
+
+It's not so much declaring a new type as declaring a new type alias. They're still the same type: but the alias lets your write it a little more succinctly.
+
+Int => Boolean is the type of a function that takes one argument, an Int, and returns a Boolean.
+
+For example, a function like "greater than 5" could have type Int => Boolean:
+
+type MyType = Int => Boolean
+val greaterThan5: MyType = (x: Int) => x > 5
+greaterThan5(7)  // true
+
+-----------------------------------
+
